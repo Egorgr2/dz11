@@ -1,0 +1,169 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+.Gold{
+    font-family: 'Bilbo Swash Caps', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FED136;
+}
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+
+
+li{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FED136;
+    margin-right: 25px;
+    margin-top: 35px;
+}
+
+
+
+.service{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 35px;
+    color: #222222;
+}
+
+
+
+
+.E{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 70px;
+    top: 18px;
+    margin-top: 30px;
+}
+
+
+
+.lot{
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+}
+
+
+
+.E-Commerce{
+    position: relative;
+    width: 260px;
+    text-align: center;
+    transition: 3s;
+}
+
+
+
+.Ei{
+    width: 38.55px;
+    height: 38.09px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.resp{
+    position: relative;
+    width: 260px;
+    text-align: center;
+    transition: 3s;
+}
+
+
+
+
+
+.r{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 50px;
+    top: 18px;
+    margin-top: 30px;
+}
+
+
+
+
+.ri{
+    margin-bottom: 20px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.web{
+    position: relative;
+    width: 260px;
+    text-align: center;
+    transition: 3s;
+}
+
+
+.wi{
+    margin-bottom: 20px;
+}
+
+
+.w{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    left: 70px;
+    top: 18px;
+    margin-top: 30px;
+}
+
+
+
+
+.web:hover{
+    transform: rotate(360deg);
+    transition: 4s;
+}
+
+
+
+
+.E-Commerce:hover{
+    transform: rotate(360deg);
+    transition: 4s;
+}
+
+
+.resp:hover{
+    transform: rotate(360deg);
+    transition: 4s;
+}
